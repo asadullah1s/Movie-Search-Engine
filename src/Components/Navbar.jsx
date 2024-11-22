@@ -11,7 +11,7 @@ const Navbar = () => {
             src="/src/assets/Logo.png"
             alt="Logo"
             className="d-inline-block align-text-top"
-            style={{ height: '50px', cursor: 'pointer' }}
+            style={{ height: '70px', cursor: 'pointer' }}
           />
         </a>
 
