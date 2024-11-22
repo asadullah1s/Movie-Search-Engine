@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(129, 2, 255);
+}
+
+.logo-size{
+    height: 120px;
+}
+.navbar{background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%)}
+.nav-link{
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+h1{
+    font-size: 40px;
+}
+.form-control{
+    outline: none;
+    height: 50px;
+    font-size: 20px;
+}
+
+
+.btn-grad {background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%)}
+.btn-grad {
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 10px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+.Movie-card{
+    width: 100%;
+}
+.movie-cards{
+  background-color: rgb(70, 20, 94);
+}
+.text-overflow{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-clamp: 1;
+}
+
+
+.Single-Poster{
+  height: 400px;
+
+}
+.text-yellow{
+  color: yellow;
+}
+.text-bold{
+  color: yellow;
+}
